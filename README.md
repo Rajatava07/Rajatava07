@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rajatava07
-- 👀 I’m interested in Python,C++,Java
+- 👀 I’m interested in Python,C,Java
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
