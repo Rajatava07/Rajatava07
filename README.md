@@ -1,10 +1,60 @@
-- 👋 Hi, I’m @Rajatava07
-- 👀 I’m interested in Python,C,Java
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋<h2> I'm Rajatava</h2>
 
-<!---
-Rajatava07/Rajatava07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h3> 👨🏻•💻 About Me </h3>
+
+
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 🎓 &nbsp; Studying Computer Science and Engineering at Asansol Engineering College and coding stuffs.
+
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Python | Java | C++ | C | MySQL
+
+- 🌐 &nbsp; HTML | CSS | JavaScript  
+
+<!--
+
+- 🛢 &nbsp; MySQL | MongoDB
+
+- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+
+-->
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
+
+<p align="center">
+
+
+
+<a href="https://www.linkedin.com/in/rajatava-mondal-8b139a271/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rajatava%20Mondal-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:rajatavamondal07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rajatavamondal07@gmail.com -blue?style=flat-square&logo=gmail"></a>
+
+</p>
+
+
+
+
+
+
+
+
+
+
+<hr>
